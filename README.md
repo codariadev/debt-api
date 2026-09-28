@@ -407,7 +407,8 @@ Zod Validation
 Controller
    ↓
 Service
-   
+   ```
+
 ## **Codariadev**
 ***Lucas Eduardo Alves***
 
